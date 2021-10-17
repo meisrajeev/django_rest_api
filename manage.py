@@ -2,7 +2,7 @@
 """Django's command-line utility for administrative tasks. nw"""
 import os
 import sys
-#11111111111
+#11
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'rest_api.settings')
