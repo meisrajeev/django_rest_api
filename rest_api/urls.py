@@ -21,4 +21,5 @@ urlpatterns = [
     path('test/', admin.site.urls),
     path('rajulocal/', admin.site.urls),
     path('check/', admin.site.urls),
+    path('remoteupdate/', admin.site.urls),
 ]
