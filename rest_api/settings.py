@@ -1,4 +1,4 @@
-#changes
+#changes12
 """
 Django settings for rest_api project.
 
